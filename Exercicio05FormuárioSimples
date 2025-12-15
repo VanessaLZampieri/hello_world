@@ -1,0 +1,4 @@
+cidade = input('Qual a sua cidade? ')
+estado = input('Qual o seu estado? ')
+
+print(f'Você mora em {cidade} - {estado}')

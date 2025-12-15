@@ -1,0 +1,4 @@
+linguagem = 'Python'
+adjetivo = 'Incrível!'
+
+print(f'A linguagem {linguagem} é {adjetivo}')

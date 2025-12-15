@@ -1,0 +1,4 @@
+numero_a = "10"
+numero_b = "50"
+
+print(numero_a + numero_b)
